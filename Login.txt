@@ -1,0 +1,22 @@
+[LOGIN]
+Email = 
+Senha = 
+LOCAL_PASTA_MQL4 = C:/Users/Estudar/AppData/Roaming/MetaQuotes/Terminal/C603EF303D369FE1BE6C7A5BA05799FE/MQL4
+
+[ENTRADA]
+Tipo_da_conta = t
+Valor_da_Entrada = 5
+
+[SOROS]
+Fazer_Soros = s
+Ciclo_Soros = 2
+Porcentagem_Soros = 80
+
+[MARTINGALE]
+Fazer_Martingale = S
+Valor_maximo_do_loss_para_ter_o_Martingale = 9
+Porcentagem_do_Martingale = 50
+
+[GERENCIAMENTO]
+Stop_Gain = 300
+Stop_Loss = 300
